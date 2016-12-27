@@ -1,0 +1,9 @@
+{
+    "id" : "Structure",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "mdj117",
+    "displayName" : "Structure Templates By Moh",
+    "description" : "This module contains two structureTemplates - Glass lab and a Prison",
+    "dependencies" : [{"id": "Core", "minVersion": "1.0.0"}, {"id": "BlockPicker", "minVersion": "0.1.0"}],
+    "isServerSideOnly" : false
+}
