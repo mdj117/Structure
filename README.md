@@ -1,1 +1,1 @@
-A new module containing two structures (A prison and a glass lab!)
+A new module containing two structures (A prison and a mysterious flower in middle of lava!)
